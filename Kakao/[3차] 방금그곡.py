@@ -1,6 +1,7 @@
 '''
 2018 KAKAO BLIND RECRUITMENT
 #을 처리하기가 까다로움 -> replace 활용
++ 문제 조건 꼼꼼히 읽기
 '''
 def solution(m, musicinfos):
     music = list()
